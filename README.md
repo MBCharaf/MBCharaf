@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on system level simulation building in Javascript and Python
 - 📫 How to reach me: by mail or personal website
 ## Highlights
-![github languages stats](https://github-readme-stats.vercel.app/api?username=MBCharaf&show_icons=true&theme=radical)
+![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MBCharaf&show_icons=true&theme=radical)
 )
 <!---
 MBCharaf/MBCharaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
